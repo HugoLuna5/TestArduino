@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test Arduino</string>
+
+
+    <string name="clear_content_arduido">Limpiar</string>
+    <string name="stop_work_arduino">Parar</string>
+    <string name="send_data_to_arduino">Enviar</string>
+    <string name="start_work_with_arduino">Empezar</string>
+    <string name="write_thing">Escribe algo...</string>
+
+</resources>
